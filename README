@@ -1,0 +1,19 @@
+2016. 10. 9.
+알고리듬 (김용철 교수님)
+과제: Binary Tree & Heap 구현
+
+전자전기컴퓨터공학부
+2014440130
+정현진
+
+파일 구성:
+/index.html : 프로그램 결과를 확인할 수 있는 Web UI
+/js/heapTree.js : Binary Tree & Heap을 구현한 핵심 기능 코드
+/js/visualize.js : Tree를 시각화하는 코드
+/js/main.js : Tree를 초기화하고, Web UI의 Button들에 Event Listener 할당
+/js/lib/Treant.js : Binary Tree 시각화를 위한 오픈소스 라이브러리
+/js/lib/raphael.js : Binary Tree 시각화를 위한 오픈소스 라이브러리(Treant.js에서 내부적으로 사용
+
+
+오픈소스 Treant.js 소스코드 위치 (Github Repository)
+https://github.com/fperucic/treant-js
